@@ -18,7 +18,7 @@
 
 /* Begin PBXFileReference section */
 		9A1324F62477DA8D009D3D26 /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
-		9A7EC26D246BF18900E0E58C /* SwiftUIBulleyeV1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBulleyeV1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9A7EC26D246BF18900E0E58C /* BullseyeV1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BullseyeV1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A7EC270246BF18900E0E58C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9A7EC272246BF18900E0E58C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		9A7EC274246BF18900E0E58C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		9A7EC26E246BF18900E0E58C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9A7EC26D246BF18900E0E58C /* SwiftUIBulleyeV1.app */,
+				9A7EC26D246BF18900E0E58C /* BullseyeV1.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,7 +95,7 @@
 			);
 			name = SwiftUIBulleyeV1;
 			productName = SwiftUIBulleyeV1;
-			productReference = 9A7EC26D246BF18900E0E58C /* SwiftUIBulleyeV1.app */;
+			productReference = 9A7EC26D246BF18900E0E58C /* BullseyeV1.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -297,7 +297,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = moc.naver.cookie178.SwiftUIBulleyeV1;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = BullseyeV1;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -316,7 +316,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = moc.naver.cookie178.SwiftUIBulleyeV1;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = BullseyeV1;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
