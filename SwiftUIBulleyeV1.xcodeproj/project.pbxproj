@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9A1324F72477DA8D009D3D26 /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1324F62477DA8D009D3D26 /* AboutView.swift */; };
 		9A7EC271246BF18900E0E58C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A7EC270246BF18900E0E58C /* AppDelegate.swift */; };
 		9A7EC273246BF18900E0E58C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A7EC272246BF18900E0E58C /* SceneDelegate.swift */; };
 		9A7EC275246BF18900E0E58C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A7EC274246BF18900E0E58C /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9A1324F62477DA8D009D3D26 /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 		9A7EC26D246BF18900E0E58C /* SwiftUIBulleyeV1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBulleyeV1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A7EC270246BF18900E0E58C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9A7EC272246BF18900E0E58C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				9A7EC270246BF18900E0E58C /* AppDelegate.swift */,
 				9A7EC272246BF18900E0E58C /* SceneDelegate.swift */,
 				9A7EC274246BF18900E0E58C /* ContentView.swift */,
+				9A1324F62477DA8D009D3D26 /* AboutView.swift */,
 				9A7EC276246BF18900E0E58C /* Assets.xcassets */,
 				9A7EC27B246BF18900E0E58C /* LaunchScreen.storyboard */,
 				9A7EC27E246BF18900E0E58C /* Info.plist */,
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9A1324F72477DA8D009D3D26 /* AboutView.swift in Sources */,
 				9A7EC271246BF18900E0E58C /* AppDelegate.swift in Sources */,
 				9A7EC273246BF18900E0E58C /* SceneDelegate.swift in Sources */,
 				9A7EC275246BF18900E0E58C /* ContentView.swift in Sources */,
